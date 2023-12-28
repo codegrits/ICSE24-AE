@@ -11,7 +11,8 @@ CodeGRITS: A Research Toolkit for Developer Behavior and Eye Tracking in IDE. IC
 
 ## Purpose
 
-CodeGRITS is designed for empirical software engineering researchers, especially those interested in studying
+[CodeGRITS](https://codegrits.github.io/CodeGRITS/) stands for **G**aze **R**ecording & **I**DE **T**racking **S**ystem,
+which is designed for empirical software engineering researchers, especially those interested in studying
 developers' programming behaviors. It is a plugin for JetBrains IDEs (IntelliJ, PyCharm, etc.) that collects developer
 IDE interactions and eye-tracking data, and exports them into XML files. It also includes several practical features
 including screen recording, dynamic configuration, activity labeling, and a real-time API.
@@ -90,10 +91,10 @@ tobiiproeyetrackermanager
 ```
 
 But you are recommended to use `Mouse` as a substitute, because it is (1) more convenient and does not affect the
-usability of the artifact, and (2) The calibration results will not be accurate when using VM.
+usability of the artifact, and (2) the calibration results will not be accurate when using VM.
 
-The Python Interpreter Path is set to `/home/sandwich/anaconda3/envs/codegrits/bin/python`, which contains the required
-Python packages.
+The Python Interpreter Path is set to `/home/sandwich/anaconda3/envs/codegrits/bin/python`, which contains 
+all required Python packages.
 
 #### Tracking
 
@@ -133,3 +134,4 @@ and `eye_tracking.xml`. They successfully record your IDE interactions and eye g
 
 #### Real-time Data API
 
+===== TODO =====
