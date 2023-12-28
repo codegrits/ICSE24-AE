@@ -4,7 +4,7 @@ CodeGRITS: A Research Toolkit for Developer Behavior and Eye Tracking in IDE
 
 # Purpose of Artifact
 
-[CodeGRITS](https://codegrits.github.io/CodeGRITS/) is designed for empirical software engineering researchers, especially those interested in studying developers' programming behaviors. It is a plugin for JetBrains IDEs (IntelliJ, PyCharm, etc.) that collects developer IDE interactions and eye-tracking data, and exports them into XML files. It also includes several practical features including screen recording, dynamic configuration, activity labeling, and a real-time API.
+[CodeGRITS](https://codegrits.github.io/CodeGRITS/) is designed for empirical software engineering researchers, especially those interested in studying developers' programming behaviors. It is a plugin for JetBrains IDEs (IntelliJ, PyCharm, etc.) that collects developer IDE interactions and eye-tracking data, and exports them into XML files. It also includes several practical features including screen recording, dynamic configuration, activity labeling, etc.
 
 # Claiming Badges
 
