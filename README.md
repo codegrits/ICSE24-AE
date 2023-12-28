@@ -1,7 +1,7 @@
 # CodeGRITS
 
 [[Website]](https://codegrits.github.io/CodeGRITS/)
-[[Paper PDF]](https://codegrits.github.io/CodeGRITS/paper.pdf)
+[[Paper PDF]](https://codegrits.github.io/CodeGRITS/static/paper.pdf)
 [[Source Code]](https://github.com/codegrits/CodeGRITS/)
 [[Archived]](https://archive.softwareheritage.org/swh:1:dir:your-directory-id)
 [[MIT License]](https://github.com/codegrits/CodeGRITS/blob/main/LICENSE)
@@ -25,14 +25,15 @@ including screen recording, dynamic configuration, activity labeling, and a real
    The [source code](https://github.com/codegrits/CodeGRITS/) is available at GitHub and is consistent and complete.
    Thorough [instructions](https://codegrits.github.io/CodeGRITS/usage-guide/) are provided for setting up the artifact
    and reproducing the results.
-3. **Results Reproduced:** Through our provided instructions or [prepared VM](), the results can be easily reproduced.
+3. **Results Reproduced:** Through our provided instructions or [prepared VM image](), the results can be easily
+   reproduced.
 
 ## Provenance
 
 - [VirtualBox VM image](): Please download it from Google Drive.
 - [Archived artifact](https://archive.softwareheritage.org/swh:1:dir:your-directory-id): We archive the artifact at
   Software Heritage.
-- [Paper PDF](https://codegrits.github.io/CodeGRITS/paper.pdf): The paper is available at the website.
+- [Paper PDF](https://codegrits.github.io/CodeGRITS/static/paper.pdf): The paper is available at the website.
 
 ## Setup
 
@@ -82,6 +83,7 @@ We have selected all three trackers. If you have a Tobii Pro Fusion eye tracker,
 the VM and select it in the `Eye Tracker Device` drop-down list. We also installed the calibration software
 [Tobii Pro Eye Tracker Manager](https://www.tobii.com/products/software/applications-and-developer-kits/tobii-pro-eye-tracker-manager#downloads)
 in the VM. You could open it via the following command in the terminal.
+
 ```shell
 cd /usr/bin
 tobiiproeyetrackermanager

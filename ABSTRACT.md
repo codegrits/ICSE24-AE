@@ -13,4 +13,4 @@ We claim both **Artifacts Available** and **Artifacts Evaluated – Reusable** b
 
 We prepare the artifact via VirtualBox VM image (Ubuntu 20.04 LTS). The VM has 8GB of base memory and 4 CPU cores. No special technology skills are required, but the PC who is familiar with IntelliJ IDEA is strongly recommended.
 
-The PC that has a Tobii Pro Fusion eye tracker is preferred, but not required. CodeGRITS could use the mouse to simulate the eye tracker. We believe it would not affect the evaluation results.
+The PC that has a Tobii Pro Fusion eye tracker is not required. CodeGRITS could use the mouse to simulate the eye tracker. We believe it would not affect the evaluation results.
